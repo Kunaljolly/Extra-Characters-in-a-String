@@ -6,7 +6,6 @@ You are given a 0-indexed string s and a dictionary of words dictionary. You hav
 Return the minimum number of extra characters left over if you break up s optimally.
 
  
-
 Example 1:
 
 Input: s = "leetscode", dictionary = ["leet","code","leetcode"]
