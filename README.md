@@ -12,6 +12,8 @@ Input: s = "leetscode", dictionary = ["leet","code","leetcode"]
 Output: 1
 Explanation: We can break s in two substrings: "leet" from index 0 to 3 and "code" from index 5 to 8. There is only 1 unused character (at index 4), so we return 1.
 
+
+
 Example 2:
 
 Input: s = "sayhelloworld", dictionary = ["hello","world"]
